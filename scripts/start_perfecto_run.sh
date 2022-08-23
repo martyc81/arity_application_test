@@ -1,1 +1,1 @@
-curl https://app.bitrise.io/app/d8862e6a36564575/build/start.json --data '{"hook_info":{"type":"bitrise","build_trigger_token":"Pqg2V7yp-tzIktLo-zxr2w"},"build_params":{"branch":"master"},"triggered_by":"curl"}'
+curl https://app.bitrise.io/app/d8862e6a36564575/build/start.json --data '{"hook_info":{"type":"bitrise","build_trigger_token":"Pqg2V7yp-tzIktLo-zxr2w"},"build_params":{"branch":"master","workflow_id":"primary"},"triggered_by":"curl"}'
