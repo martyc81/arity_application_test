@@ -1,1 +1,1 @@
-curl https://app.bitrise.io/app/6add384412e639e9/build/start.json --data '{"hook_info":{"type":"bitrise","build_trigger_token":"-_FJEUsZNk7xWhloGEX01Q"},"build_params":{"branch":"br_poc_perf_tests_1"},"triggered_by":"curl"}'
+curl https://app.bitrise.io/app/6add384412e639e9/build/start.json --data '{"hook_info":{"type":"bitrise","build_trigger_token":"-_FJEUsZNk7xWhloGEX01Q"},"build_params":{"branch":"master"},"triggered_by":"curl"}'
